@@ -1,0 +1,177 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: nofooter
+= Wenqi Fan
+
+~~
+{}{img_left}{images/Wenqi.jpg}{Image of Wenqi}{160}{175}{images/Wenqi.JPG}
+
+Assistant Professor \n
+[https://www.polyu.edu.hk/comp/people/academic-staff/ Department of Computing (COMP)], Faculty of Engineering \n
+[https://www.polyu.edu.hk/mm/people/academic-staff/ Department of Management and Marketing (MM)], Business School \n
+The Hong Kong Polytechnic University (PolyU)
+
+
+
+Email: wenqifan03(at)gmail(dot)com, wenqi.fan(at)polyu(dot)edu(dot)hk
+
+Office: PQ743, Mong Man Wai Building, Hung Hom, Kowloon, Hong Kong SAR.
+
+
+~~~
+
+
+
+== Short Bio
+
+
+Dr. *Wenqi Fan* is currently an Assistant Professor of the Department of Computing (COMP) & Department of Management and Marketing (MM), The Hong Kong Polytechnic University (PolyU). Before that, he was a Research Assistant Professor and a Postdoctoral Fellow at PolyU (2020-2023). He received his Ph.D. degree in computer science from the City University of Hong Kong (2017-2020), under the supervision of [https://www4.comp.polyu.edu.hk/~csqli/ *Prof. Qing LI*] and [http://www.cs.cityu.edu.hk/~jianwang/ *Prof. Jianping WANG*]. 
+From 2018 to 2021, he was a  research scholar of [http://www.dse.cse.msu.edu Data Science and Engineering (DSE) Lab] at Michigan State University (MSU), under the supervision of [http://www.cse.msu.edu/~tangjili *Prof. Jiliang Tang*]. 
+He is recognized as the *AI 2000 Most Influential Scholar Honorable Mention* ([./others/AI-2000-2022.png 2022], [./others/AI-2000-2023.png 2023], [./others/AI-2000-2024.png 2024]) , and one of the World’s Top 2% Scientists by Stanford University (2023, 2024). 
+His research has been supported by multiple government research fund agencies, including Hong Kong Research Grants Council (*RGC-GRF*), National Natural Science Foundation of China (*NSFC*), Hong Kong Innovation and Technology Commission (*ITF*), etc. 
+He has published his research in highly ranked journals and top conference proceedings \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]. 
+
+
+
+~~~
+>>> *Welcome to contact me if you are interested in interdisciplinary research (collaborating with our group) using Data Mining\/Machine Learning\/Artificial Intelligence!*
+~~~
+
+
+
+== Research Interests \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  Google Scholar]\]
+
+
+Data Mining, Machine Learning, and Artificial Intelligence, with a particular focus on: 
+- *Recommender Systems (RecSys)* and *Management Information Systems (MIS)* 
+- *Large Language Models (LLMs)*
+- *Trustworthy AI*: Adversarial Attacks & Robustness; Fairness; Explainability, etc.
+- *Graph Machine Learning*: Graph Neural Networks; Graph Foundation Models
+- *AI\/ML\/DM + X*: Business; Science.
+
+
+
+
+
+
+~~~
+
+>>>[./openings.html *Openings: *] 
+Our research group are actively recruiting self-motivated *Postdoc, Ph.D. students, [https://www.polyu.edu.hk/gs/prospective-students/dual-phd-degree-programmes/ Dual PhD Degree students], MPhil/Msc, and Research Assistants*, etc. 
+Visiting scholars, interns, and self-funded students are also welcome. 
+Send me an email if you are interested (Year-round Recruitment).
+\[[./openings.html *Please click here for position details.*]\]
+~~~
+
+~~~
+>>> *Call for Papers* (Special Topics Track@WISE 2024): [https://wise2024-qatar.com/graph-machine-learning-on-web-and-social-media/  *Graph Machine Learning on Web and Social Media: Trends, Challenges, and Applications*]  \n
+International Web Information Systems Engineering conference (also known as the *WISE* conference), 2024. \n
+*Submission Deadline: 30 July, 2024.* ~~~~~~~~~~~~Location: *Doha Qatar*. ~~~~~~~~~~~~Conference Dates: 2-5 December 2024. 
+~~~
+
+
+
+== News
+
+: {*2024*}
+- 09/2024: One paper (*[https://arxiv.org/abs/2311.07127 Multi-agent Attacks for Black-box Social Recommendations]*) got accepted by *ACM TOIS 2024*. Congratulations to Shijie. 
+- 09/2024: Our new preprint "[https://arxiv.org/abs/2409.01192 *SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation*]" is online. 
+- 08/2024: Check out our survey on [https://arxiv.org/abs/2408.01129 *A Survey of Mamba*]. 
+- 06/2024: Gratefully receive a grant (*RGC-GRF*) as the PI to support our research on Large Language Models and Recommender Systems. Multiple PhD\/Postdoc\/RA positions are available (Year-round Recruitment). \[[./openings.html *Please click here for position details.*]\]
+- 06/2024: Our new preprint "[https://arxiv.org/abs/2406.10450 *TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation*]" is online. 
+- 05/2024: Our survey paper&tutorial (*[https://arxiv.org/abs/2405.06211 *A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models*]*) got accepted by *KDD 2024*.  Congratulations to Yujuan, Liangbo and Shijie. \[[https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/ Website]\]
+- 05/2024: One paper got accepted by *KDD 2024*.  Congratulations to Liangbo and Shijie.
+- 05/2024: Gratefully receive a grant (Intra-Faculty Interdisciplinary Project) as the PC\/Co-PI to support our research.
+- 05/2024: Check out our survey on [https://arxiv.org/abs/2405.06211 *A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models*].
+- 04/2024: Check out our survey on [https://arxiv.org/abs/2404.14928 *Graph Machine Learning in the Era of Large Language Models (LLMs)*].
+- 04/2024: Our survey paper ("*Recommender Systems in the Era of Large Language Models (LLMs)*") got accepted by *IEEE TKDE 2024*.  
+- 04/2024: Our tutorial on “[https://arxiv.org/abs/2307.02046 *Recommender Systems in the Era of Large Language Models (LLMs)*]” is accepted by *IJCAI 2024*. Congratulations to Yujuan, Shijie, and Liangbo. [. *More*] 
+- 03/2024: I was recognized as the "[./others/AI-2000-2024.png *2024 AI 2000 Most Influential Scholar Honorable Mention*]"  in the field of IR and Recommendation by the AMiner. 
+- 03/2024: One demo paper ("*FashionReGen: LLM-Empowered Fashion Report Generation*")  and one short paper ("*Interpretation-Empowered Neural Cleanse for Backdoor Attacks*") got accepted by *ACM TheWeb Conference (WWW) 2024*. Congratulations to Yujuan and Liangbo.
+- 01/2024: Two papers ("*Linear-Time Graph Neural Networks for Scalable Recommendations*" and "*Fast Graph Condensation with Structure-based Neural Tangent Kernel*") got accepted by *ACM TheWeb Conference (WWW) 2024*.  Congratulations to Jiahao ZHANG, Lin WANG, and Jiatong LI.
+- 01/2024: One paper ("*Revisiting Link Prediction: A data perspective*") got accepted by *ICLR 2024*. 
+
+: {*2023*}
+- 12/2023: Two students received PolyU Presidential PhD Fellowship Scheme (*PPPFS*) to support their PhD study.  
+- 11/2023: Our workshop on “[https://advanced-recommender-systems.github.io/llm4graph/  *Large Language Models (LLMs) for Graph Learning*]” is accepted by The Web Conference 2024 (*WWW 2024*). 
+[https://advanced-recommender-systems.github.io/llm4graph/  *More*] 
+- 09/2023: Our tutorial on “[https://arxiv.org/abs/2307.02046 *Recommender Systems in the Era of Large Language Models (LLMs)*]” is accepted by *ICDM 2023*. Congratulations to Jiatong, Zihuai, and Yunqing. [https://advanced-recommender-systems.github.io/llms_rec_tutorial/ *More*] 
+- 07/2023: Our new preprint "[https://arxiv.org/abs/2307.07171 *Certified Robustness for Large Language Models with Self-Denoising*]" is online. 
+- 07/2023: Our new preprint "[https://arxiv.org/abs/2307.03393 *Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs*]" is online. 
+- 07/2023: Our new preprint "[https://arxiv.org/abs/2307.02046 *Recommender Systems in the Era of Large Language Models (LLMs)*]" is online. 
+- 06/2023: Gratefully receive a grant (*RGC-GRF*) as the Co-I to support our research.
+- 06/2023: Our new preprint "[https://arxiv.org/abs/2306.06615 *Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective*]" is online. 
+- 05/2023: Our tutorial on “*Trustworthy Recommender Systems: Foundations and Frontiers*” is accepted by *KDD 2023* \[[https://advanced-recommender-systems.github.io/trustworthy-recommendations/ Website]\].
+- 04/2023: Our tutorial on “*Trustworthy Recommender Systems: Foundations and Frontiers*” is accepted by *IJCAI 2023* \[[https://advanced-recommender-systems.github.io/trustworthy-rec/ Website]\].
+- 04/2023: Our survey paper ("[https://arxiv.org/abs/2302.02591 *Generative Diffusion Models on Graphs: Methods and Applications*]") got accepted by *IJCAI 2023*.  Congratulations to Chengyi, Yunqing, and Jiatong for their first paper with PolyU.
+- 04/2023: Our paper ("*Adversarial  Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles*") got accepted by *IEEE TKDE 2023*.  
+- 04/2023: One paper got accepted by *SIGIR 2023*.
+- 02/2023: Our new preprint "[https://arxiv.org/abs/2302.02591 *Generative Diffusion Models on Graphs: Methods and Applications*]" is online. 
+- 01/2023: One paper ([https://arxiv.org/abs/2302.08266 *Fairly Adaptive Negative Sampling for Recommendations*]) got accepted by The Web Conference (*WWW'2023*). Congratulations to Xiao Chen for his first paper with PolyU.
+
+
+
+: {*2022*}
+- 12/2022: Our tutorial on “*Trustworthy Recommender Systems*” is accepted for the Web Conference (*WWW'2023*) \[[https://advanced-recommender-systems.github.io/trustworthiness-tutorial/ Website]\].
+- 11/2022: One paper (*Jointly Attacking Graph Neural Network and its Explanations*) got accepted by *ICDE'2023*.  
+- 11/2022: Our tutorial on “*AutoML for Deep Recommender Systems: Fundamentals and Advances*” is accepted for the WSDM Conference (*WSDM'2023*) \[[https://advanced-recommender-systems.github.io/AutoML-Recommendations/ Website]\].
+- 09/2022: Our new preprint "[https://arxiv.org/abs/2209.10117 *A Comprehensive Survey on Trustworthy Recommender Systems*]" is online. 
+- 09/2022: One paper (*Fairness Reprogramming*) got accepted by *NeurIPS'2022*.  
+- 08/2022: One paper (*Identifying The Kind Behind SMILES - Anatomical Therapeutic Chemical Classification using Structure-Only Representations*) got accepted by *BIB'2022* (Impact Factor: 13.994).  
+- 08/2022: One paper (*Disentangled Contrastive Learning for Social Recommendation*) got accepted by *CIKM'2022*. Congratulations to Jiahao WU for his first paper with PolyU. 
+- 07\/2022: Invited to serve as the (Senior) PC Member of *AAAI'2023* and *ICLR'2023*.
+- 06\/2022: Gratefully receive two grants (*RGC-GRF and Internal Research Fund@PolyU*) as the PI to support our research on Graph Neural Networks. Multiple PhD\/Postdoc\/RA positions are available (Year-round Recruitment). \[[./openings.html *Please click here for position details.*]\]
+- 05/2022: One paper (*Knowledge-enhanced Black-box Attacks for Recommendations*) got accepted by *KDD'2022*. Congratulations to my incoming PhD student Jingfan for his first paper with PolyU. 
+
+- 05/2022: Our survey paper (*Trustworthy AI: A Computational Perspective* \[[https://arxiv.org/abs/2107.06641 Arxiv]\]) is accepted by *ACM TIST*.
+ In the survey, we examine *SIX* dimensions in achieving trustworthy AI, including *(i) Safety & Robustness, (ii) Non-discrimination & Fairness, (iii) Explainability, (iv) Privacy, (v) Accountability & Auditability, and (vi) Environmental Well-Being*, and review the latest research works in each dimension from a computational perspective.
+
+- 04/2022: Our new preprint "[https://arxiv.org/pdf/2204.01390.pdf *Automated Machine Learning for Deep Recommender Systems: A Survey*]" is online. 
+- 04/2022: 1 paper (*Graph Trend Filtering Networks for Recommendation* \[[https://arxiv.org/pdf/2108.05552.pdf Arxiv]\] \[[https://github.com/wenqifan03/GTN-SIGIR2022 Code-Pytorch]\]) got accepted by *SIGIR'2022*.
+- 03/2022: I am invited to serve as a reviewer for *NeurIPS 2022*.
+- 03/2022: I was recognized as "*2022年AI 2000人工智能最具影响力学者提名奖！*" ("*2022 AI 2000 Most Influential Scholar Honorable Mention*"  in Information Retrieval and Recommendation) based on the Tsinghua-AMiner academic data. [https://aminer.cn/ai2000 *榜单链接Link*]. 
+
+
+
+: {*2021*}
+- 12/2021: Our tutorial on “*Trustworthy AI: A Computational Perspective*” is accepted for is accepted for the Web Conference (*WWW'22*) \[[https://sites.google.com/msu.edu/trustworthy-ai/ Website]\].
+- 12/2021: Our tutorial on “*Automated Machine Learning for Recommendations: Fundamentals and Advances*” is accepted for the Web Conference (*WWW'22*) \[[https://advanced-recommender-systems.github.io/AutoML-Recommendations/ Website]\].
+- 12/2021: One paper got accepted by *AAAI'22*.
+- 11/2021: Invited to serve as the Senior PC Member of *KDD'22*.
+- 09/2021: 1 paper got accepted by *ICDM'2021*.
+- 07/2021: Our new preprint "[https://arxiv.org/pdf/2107.06641.pdf *Trustworthy AI: A Computational Perspective*]" is online. 
+- 07/2021: Our tutorial on “*Trustworthy AI: A Computational Perspective*” is accepted for *ICAPS 2021*.
+- 06/2021: Invited to serve as PC Member for *ICLR 2020 and WSDM 2022*.
+- 06/2021: A Chinese Survey on Graph Nerual Networks based Recommender Systems, “[https://mp.weixin.qq.com/s/4XdBe_w3uijxmrKn2qq0ow *综述：基于图学习的推荐系统*]”.
+- 05/2021: Our paper “*AutoLoss: Automated Loss Function Search in Recommendations*” is accepted by *KDD 2021*.
+- 04/2021: Invited to serve as PC member for *NeurIPS\/CIKM 2021*.
+- 04/2021: Our tutorial on “[https://advanced-recommender-systems.github.io/ijcai2021-tutorial/ *Deep Learning for Recommendations: Fundamentals and Advances*]” is accepted to be held in *IJCAI 2021*. 
+
+
+
+: {*2020*}
+- 12/2020: Our tutorial "[https://deeprs-tutorial.github.io *Deep Recommender System: Fundamentals and Advances*]" has been accepted by *WWW 2021*.
+- 12/2020: Invited to serve as PC member for *ICML 2021*.
+- 11/2020: Invited to serve as PC member for *KDD 2021*.
+- 10/2020: One full paper got accepted by *ICDE 2021*.
+- 09/2020: One paper got accepted by *COLING 2020* about Fairness\/bias in Dialogue Systems.
+- 08/2020: Invited to serve as PC member for *AAAI2021* and *IJCAI2021*.
+- 06/2020: One paper "*A Graph Neural Network Framework for Social Recommendations*" is accepted by *IEEE TKDE*.
+- 05/2020: Preprint "[http://arxiv.org/abs/2005.08147 Attacking Black-box Recommendations via Copying Cross-domain User Profiles]" [http://arxiv.org/abs/2005.08147 \[Arxiv\]]
+- 03/2020: *SDM2020* Doctoral Forum accepted "*Deep Social Recommendations*".
+- 03/2020: Awarded *SDM2020* Student Travel Award with funds from SIAM.
+
+
+
+: {*2019*}
+- 12/2019: Two papers are accepted by *SDM 2020*.
+- 12/2019: Invited to serve as PC member for *IJCAI 2020* and *AI4EDU 2020*.
+- 10/2019: Preprint of our paper "[https://arxiv.org/abs/1910.10486 Does Gender Matter? Towards Fairness in Dialogue Systems]" is released [https://arxiv.org/abs/1910.10486 \[link\]].
+- 10/2019: Our paper "*Epidemic Graph Convolutional Network*" is accepted by *WSDM 2020* (Preprint coming soon!).
+- 06/2019: Our paper "*Deep Social Collaborative Filtering*" is accepted by *RecSys 2019*.
+- 06/2019: Received the *IJCAI 2019* Student Travel Award and will serve as volunteer.
+- 05/2019: Our paper "*Deep Adversarial Social Recommendation*" is accepted by *IJCAI 2019*.
+- 01/2019: Our paper "*Graph Neural Networks for Social Recmmendation*" is accepted by *WWW 2019*.
+
+
+ 
+
