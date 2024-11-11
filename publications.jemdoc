@@ -1,266 +1,33 @@
 # jemdoc: menu{MENU}{publications.html}
 # jemdoc: nofooter
-= Wenqi Fan - Publications
-
-
-
-
-== [./tutorials.html *Tutorials*] \[[./tutorials.html *More*]\]
-== [./workshop.html *Workshop*] \[[./workshop.html *More*]\]
-
+= Hengyun Neil Li - Publications
 
 
 == Recent Preprints
 
-- Haohao Qu, Yifeng Zhang, Liangbo Ning, *Wenqi Fan*, Qing Li\n
-*SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation* \n
-arXiv:2409.01192, 2024. \[[https://arxiv.org/abs/2409.01192  ArXiv]\]
-
-- Haohao Qu, Yifeng Zhang, Liangbo Ning, *Wenqi Fan*, Qing Li\n
-*Joint Universal Adversarial Perturbations with Interpretations* \n
-arXiv:2408.01715, 2024. \[[https://arxiv.org/abs/2408.01715  ArXiv]\]
-   
-- Haohao Qu, Liangbo Ning, Rui An, *Wenqi Fan*, Tyler Derr, Xin Xu, Qing Li\n
-*A Survey of Mamba* \n
-arXiv:2408.01129, 2024. \[[https://arxiv.org/abs/2408.01129  ArXiv]\] \[[./papers/2024-Mamba.pdf PDF]\] 
-
-- Haohao Qu, *Wenqi Fan*, Zihuai Zhao, Qing Li\n
-*TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation* \n
-arXiv:2406.10450, 2024. \[[https://arxiv.org/abs/2406.10450  ArXiv]\] \[[./papers/2024-TokenRec.pdf PDF]\] 
-
-- *Wenqi Fan*, Shijie Wang, Jiani Huang, Zhikai Chen, Yu Song, Wenzhuo Tang, Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li\n
-*Graph Machine Learning in the Era of Large Language Models (LLMs)* \n
-arXiv:2404.14928, 2024. \[[https://arxiv.org/abs/2404.14928  ArXiv]\] \[[./papers/2024-GML-LLMs.pdf PDF]\] 
-
-- Hanbing Wang, Xiaorui Liu, *Wenqi Fan*, Xiangyu Zhao, Venkataramana Kini, Devendra Yadav, Fei Wang, Zhen Wen, Jiliang Tang, Hui Liu\n
-*Rethinking Large Language Model Architectures for Sequential Recommendations* \n
-arXiv:2402.09543, 2024. \[[https://arxiv.org/abs/2402.09543  ArXiv]\] \[[./papers/2024-Lite-LLM4Rec.pdf PDF]\] 
-
-- Wenzhuo Tang, Renming Liu, Hongzhi Wen, Xinnan Dai, Jiayuan Ding, Hang Li, *Wenqi Fan*, Yuying Xie, Jiliang Tang\n
-*A General Single-Cell Analysis Framework via Conditional Diffusion Generative Models* \n
-bioRxiv, 2023. \[[https://www.biorxiv.org/content/10.1101/2023.10.13.562243v1.abstract  bioRxiv]\] 
-
-- Yingqian Cui, Jie Ren, Yuping Lin, Han Xu, Pengfei He, Yue Xing, *Wenqi Fan*, Hui Liu, Jiliang Tang\n
-*FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models* \n
-arXiv:2310.02401, 2023. \[[https://arxiv.org/abs/2310.02401  ArXiv]\] 
-
-- Jiahao Wu, Qijiong Liu, Hengchang Hu, *Wenqi Fan*, Shengcai Liu, Qing Li, Xiao-Ming Wu, Ke Tang\n
-*Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation* \n
-arXiv:2310.09874, 2023. \[[https://arxiv.org/abs/2310.09874  ArXiv]\] 
-
-- *Wenqi Fan*, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\n
-*A Comprehensive Survey on Trustworthy Recommender Systems* \n
-arXiv: 2209.10117, 2022. \[[https://arxiv.org/abs/2209.10117 ArXiv]\] \[[./papers/2022-TRec.pdf PDF]\]
-
-
-- Yuxuan Wan, Han Xu, Xiaorui Liu, Jie Ren, *Wenqi Fan*, and Jiliang Tang \n 
-*Defense Against Gradient Leakage Attacks via Learning to Obscure Data* \n 
-arXiv: 2206.00769, 2022. 
-\[[https://arxiv.org/abs/2206.00769 ArXiv]\]
-
-
-
-
-
-
-== Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
-
--  Shijie Wang, *Wenqi Fan*, Xiao-yong Wei, Xiaowei Mei, Shanru Lin, Qing Li\n
-*Multi-agent Attacks for Black-box Social Recommendations* \n
-In ACM Transactions on Information Systems (*ACM TOIS*), 2024. \n
-arXiv:2311.07127, 2024. \[[https://arxiv.org/abs/2311.07127  ArXiv]\] 
-
-- Yujuan Ding, *Wenqi Fan*, Liangbo Ning, Shijie Wang, Hengyun Li, Dawei Yin, Tat-Seng Chua, and Qing Li\n
-*A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models* \n
-In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2024*), 2024. \n
-arXiv:2405.06211, 2024. \[[https://arxiv.org/abs/2405.06211 ArXiv]\] \[[https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/ Tutorial&Slides]\] 
-
-- Jiatong Li, Yunqing Liu, *Wenqi Fan*, Xiao-Yong Wei, Hui Liu, Jiliang Tang, and Qing Li\n
-*Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective* \n
-In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2024*), 2024.  \n
-arXiv:2306.06615, 2024. \[[https://arxiv.org/abs/2306.06615 ArXiv]\] \[[./papers/2023-MolReGPT.pdf PDF]\] \[[https://github.com/phenixace/MolReGPT Code]\] \[[https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ 中文Chinese]\] 
-
-- Mohammad Hashemi, Shengbo Gong, Juntong Ni, *Wenqi Fan*, B. Aditya Prakash, Wei Jin\n
-*A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation* \n
-In International Joint Conference on Artificial Intelligence (*IJCAI 2024*). \n
-arXiv:2402.03358, 2024.  \[[https://arxiv.org/abs/2402.03358  ArXiv]\] \[[./papers/2024-GraphReduction.pdf PDF]\] 
-
-
-- Zihuai Zhao, *Wenqi Fan*,  Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang, and Qing Li\n
-*Recommender Systems in the Era of Large Language Models (LLMs)* \n
-In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2024*), 2024.  \n
-\[[https://arxiv.org/abs/2307.02046 ArXiv]\] \[[./papers/2023-LLMs4Rec.pdf PDF]\]   \[[https://advanced-recommender-systems.github.io/llms_rec_tutorial/ Website]\] 
-\[[https://advanced-recommender-systems.github.io/llms_rec_tutorial/doc/RecSys+LLMs.pdf Slides]\]
-
-- Yujuan Ding, Yunshan Ma, *Wenqi Fan*, Yige Yao, Tat-Seng Chua,  Qing Li\n
-*FashionReGen: LLM-Empowered Fashion Report Generation* \n
-In The Web Conference (*WWW 2024 Demo*), 2024.  \n
-\[[https://arxiv.org/abs/2403.06660 ArXiv]\] 
-
-
-- Liang-bo Ning, Zeyu Dai, Jingran Su, Chao Pan, Luning Wang, *Wenqi Fan*, Qing Li\n
-*Interpretation-Empowered Neural Cleanse for Backdoor Attacks* \n
-In The Web Conference (*WWW 2024 Short Paper*), 2024.  \n
-\[[. ArXiv]\] 
-
-
-- Lin Wang, *Wenqi Fan*, Jiatong Li, Yao Ma, Qing Li\n
-*Fast Graph Condensation with Structure-based Neural Tangent Kernel* \n
-In The Web Conference (*WWW 2024*), 2024.  \n
-\[[https://arxiv.org/abs/2310.11046 ArXiv]\] \[[./papers/2024-WWW-GC-SNTK.pdf PDF]\] \[[https://github.com/WANGLin0126/GCSNTK Code]\]
-
-- Jiahao Zhang, Rui Xue, *Wenqi Fan*, Xin Xu, Qing Li, Jian Pei, Xiaorui Liu\n
-*Linear-Time Graph Neural Networks for Scalable Recommendations* \n
-In The Web Conference (*WWW 2024*), 2024.  \n
-\[[https://arxiv.org/abs/2402.13973 ArXiv]\] \[[./papers/2024-WWW-LTGNN.pdf PDF]\] \[[https://github.com/QwQ2000/TheWebConf24-LTGNN-PyTorch Code]\]
-
-
-- Zhikai Chen, Haitao Mao, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, *Wenqi Fan*, Hui Liu, Jiliang Tang\n
-*Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs* \n
-In ACM SIGKDD Explorations Newsletter, 2024. \[[https://arxiv.org/abs/2307.03393 ArXiv]\] \[[./papers/2023-LLMs-on-Graphs.pdf PDF]\] 
-
-
-- Haitao Mao, Juanhui Li, Harry Shomer, Bingheng Li, *Wenqi Fan*, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang\n
-*Revisiting Link Prediction: A Data Perspective* \n
-In International Conference on Learning Representations (*ICLR 2024*), 2024. \n
-\[[https://arxiv.org/abs/2310.00793  ArXiv]\] 
-
-
-- *Wenqi Fan*, Xiangyu Zhao, Qing Li, Tyler Derr, Yao Ma, Hui Liu,  Jianping Wang, and Jiliang Tang\n
-*Adversarial  Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles* \n
-In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2023*), 2023.  \n
-\[[https://ieeexplore.ieee.org/abstract/document/10114977 PDF]\]
-
-
-- Chengyi Liu, *Wenqi Fan*, Yunqing Liu, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li\n
-*Generative Diffusion Models on Graphs: Methods and Applications* \n
-In International Joint Conference on Artificial Intelligence (*IJCAI 2023*). arXiv: 2302.02591, 2023. \n
-\[[https://arxiv.org/abs/2302.02591 ArXiv]\] \[[./papers/2023-DiffGraph.pdf PDF]\] \[[https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg 中文Chinese]\] \[[https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs GitHub]\] 
-
-
-
-- Xiao Chen, *Wenqi Fan*, Jingfan Chen, Haochen Liu, Zitao Liu, Qing Li, and Zhaoxiang Zhang \n
-*Fairly Adaptive Negative Sampling for Recommendations* \n
-In The Web Conference (*WWW 2023*), 2023.  \n
-\[[https://arxiv.org/abs/2302.08266 PDF]\]
-
-
-- *Wenqi Fan*, Han Xu, Wei Jin, Xiaorui Liu,  Xianfeng Tang, Suhang Wang, Qing Li, Jiliang Tang, Jianping Wang, and Charu Aggarwal \n
-*Jointly Attacking Graph Neural Network and its Explanations* \n
-In Proceedings of 39th IEEE International Conference on Data Engineering (*ICDE 2023*), 2023.  \n
-\[[https://arxiv.org/pdf/2108.03388.pdf ArXiv]\] \[[./slides/ICDE2023/2023-ICDE-JointlyAttack.pdf Slides]\]
-
-- Bo Chen, Xiangyu Zhao, Yejing Wang, *Wenqi Fan*, Huifeng Guo, and Ruiming Tang \n 
-*A Comprehensive Survey on Automated Machine Learning for Recommendations* \n 
-In ACM Transactions on Recommender Systems, 2023. 
-\[[https://arxiv.org/abs/2204.01390 ArXiv]\] \[[./papers/2022-AutoRec-Survey.pdf PDF]\]
-
-
-- Guanhua Zhang, Yihua Zhang, Yang Zhang, *Wenqi Fan*, Qing Li, Sijia Liu, Shiyu Chang \n
-*Fairness Reprogramming* \n
-In Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*), 2022. \n
-\[[https://arxiv.org/abs/2209.10222 PDF]\] \[[https://github.com/UCSB-NLP-Chang/Fairness-Reprogramming Code]\] 
-
-
-
-- Yi Cao, Zhen-Qun Yang, Xu-Lu Zhang, *Wenqi Fan*, Yaowei Wang, Jiajun Shen, Dong-Qing Wei, Qing Li, Xiao-Yong Wei\n
-*Identifying The Kind Behind SMILES - Anatomical Therapeutic Chemical Classification using Structure-Only Representations* \n
-In Briefings in Bioinformatics (*BIB*), 2022. (Impact Factor: 13.994) \n
-\[[./papers/BIB-2022-ATC-SMILES.pdf PDF]\] \[[https://github.com/lookwei/ATC_CNN Code]\]  
-
-
-- Jiahao Wu,  *Wenqi Fan*, Jingfan Chen, Shengcai Liu, Qing Li, and Ke Tang \n
-*Disentangled Contrastive Learning for Social Recommendation*  \n
-In ACM International on Conference on Information and Knowledge Management (*CIKM 2022*), 2022. \n
-\[[https://arxiv.org/abs/2208.08723 PDF]\]
-
-
-- Jingfan Chen (incoming PhD student), *Wenqi Fan*, Guanghui Zhu, Xiangyu Zhao, Chunfeng Yuan, Qing Li, and Yihua Huang \n
-*Knowledge-enhanced Black-box Attacks for Recommendations*  \n
-In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2022*), 2022. \n
-\[[https://arxiv.org/abs/2207.10307 PDF]\] \[[./slides/KDD2022/KDD2022-KGAttack.pdf Slides]\] 
-
-
-
-- Haochen Liu, Yiqi Wang, *Wenqi Fan*, Xiaorui Liu, Yaxin Li, Shaili Jain, Yunhao Liu, Anil K. Jain, and Jiliang Tang \n 
-*Trustworthy AI: A Computational Perspective* \n 
-ACM Transactions on Intelligent Systems and Technology (*ACM TIST*), 2022.  \n
-\[[https://arxiv.org/abs/2107.06641 ArXiv]\] 
-
-
-
-- *Wenqi Fan*, Xiaorui Liu, Wei Jin, Xiangyu Zhao, Jiliang Tang, and Qing Li \n
- *Graph Trend Filtering Networks for Recommendation*  \n
- 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (*SIGIR 2022*). \n
- \[[https://arxiv.org/pdf/2108.05552.pdf PDF]\]  \[[./slides/SIGIR2022/sigir2022-GTN.pdf Slides]\]  \[[https://github.com/wenqifan03/GTN-SIGIR2022 Code-Pytorch]\]
-
-
-- Xiangyu Zhao, *Wenqi Fan\**, Hui Liu, and Jiliang Tang \n
-  *Multi-type Urban Crime Prediction* \n
-  36th AAAI Conference on Artificial Intelligence (*AAAI 2022*).  \n
-  \[[https://www.aaai.org/AAAI22Papers/AAAI-4964.ZhaoX.pdf PDF]\] (* Corresponding author.)
-
-
-- Xiangyu Zhao, Haochen Liu, *Wenqi Fan*, Hui Liu, Jiliang Tang, Chong Wang, Ming Chen, Xudong Zheng, Xiaobing Liu, and Xiwang Yang \n
-  *AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations* \n
-  IEEE 21st International Conference on Data Mining (*ICDM 2021*), *best-ranked papers*. \n
-  \[[https://ieeexplore.ieee.org/document/9679068 PDF]\]
-
-- Xiangyu Zhao, Haochen Liu, *Wenqi Fan\**, Hui Liu, Jiliang Tang, and Chong Wang \n 
-  *AutoLoss: Automated Loss Function Search in Recommendations* \n 
-  In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2021*), 2021.  \n
-  \[[https://arxiv.org/abs/2106.06713 ArXiv]\] \[[./slides/KDD2021/kdd2021slides.pdf Slides]\] (* Corresponding author.)
-
-- *Wenqi Fan*, Tyler Derr, Xiangyu Zhao, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang, and Qing Li \n
-  *Attacking Black-box Recommendations via Copying Cross-domain User Profiles* \n
-  In Proceedings of 37th IEEE International Conference on Data Engineering (*ICDE 2021, Full paper*)  \n
-  \[[http://arxiv.org/abs/2005.08147 ArXiv]\] \[[./slides/ICDE2021/CopyAttack.pdf Slides]\]
-
--  Haochen Liu, Jamell Dacon, *Wenqi Fan*, Hui Liu, Zitao Liu, and Jiliang Tang \n
-  *Does Gender Matter? Towards Fairness in Dialogue Systems* \n
-  In Proceedings of the 28th International Conference on Computational Linguistics (*COLING 2020*), 2020. \n
-  \[[https://arxiv.org/abs/1910.10486 ArXiv]\]  
-
--  *Wenqi Fan*, Yao Ma , Qing Li, Jianping Wang, Guoyong Cai, Jiliang Tang, and Dawei Yin \n
-   *A Graph Neural Network Framework for Social Recommendations* \n
-   In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2020*), 2020.  \n
-   \[[https://ieeexplore.ieee.org/document/9139346 PDF]\]
-
--  *Wenqi Fan*, Yao Ma, Han Xu, Xiaorui Liu, Jianping Wang, Qing Li, and Jiliang Tang \n 
-   *Deep Adversarial Canonical Correlation Analysis*  \n 
-   In Proceedings of the 2020 SIAM International Conference on Data Mining (*SDM 2020*), 2020.  \n
-   \[[https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.40 PDF]\]
-
--  Wentao Wang, Suhang Wang, *Wenqi Fan*, Zitao Liu, and Jiliang Tang \n
-   *Global-and-Local Aware Data Generation for the Class Imbalance Problem* \n
-   In Proceedings of the 2020 SIAM International Conference on Data Mining (*SDM 2020*), 2020. \n
-   \[[https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.35 PDF]\]
-
--  Tyler Derr, Yao Ma, *Wenqi Fan*, Xiaorui Liu, Charu Aggarwal, and Jiliang Tang \n
-   *Epidemic Graph Convolutional Network* \n
-   In Proceedings of the 13th ACM Conference on Web Search and Data Mining (*WSDM  2020*), 2020. \n
-   \[[https://dl.acm.org/doi/10.1145/3336191.3371807 PDF]\]
-
--  *Wenqi Fan*, Yao Ma, Dawei Yin, Jianping Wang, Jiliang Tang, and Qing Li. \n
-   *Deep Social Collaborative Filtering* \n
-   In Proceedings of the 13th ACM Conference on Recommender Systems (*RecSys 2019*), 2019. (Long Paper,  Acceptance rate: 19%.) \n
-   \[[https://arxiv.org/abs/1907.06853 ArXiv]\]  
-
--  *Wenqi Fan*, Tyler Derr, Yao Ma, Jianping Wang, Jiliang Tang, and Qing Li \n
-   *Deep Adversarial Social Recommendation*  \n
-   In Proceedings of the International Joint Conference on Artificial Intelligence (*IJCAI 2019*), 2019. \n
-   \[[https://arxiv.org/abs/1905.13160 ArXiv]\] \[[https://drive.google.com/file/d/1lCvxGlkBm6ux3KderXlE0YE9ELSHlfbh/view?usp=sharing Slides]\] \[[https://drive.google.com/file/d/1m5fJ71wrJq0ykU9ytwwJpuI9GT_WVH09/view?usp=sharing Code]\]
-
--  *Wenqi Fan*, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, and Dawei Yin \n
-   *Graph Neural Networks for Social Recommendation*  \n
-   In Proceedings of the 28th International Conference on World Wide Web (*WWW 2019*), 2019. (Full, Oral,  Acceptance rate: 18%.)  \n
-   \[[https://arxiv.org/abs/1902.07243 ArXiv]\] \[[https://github.com/wenqifan03/GraphRec-WWW19 Code-Pytorch]\] \[[https://drive.google.com/file/d/1OznDPmlCmPVu9Ej72P2GZJScEzo9T8sS/view?usp=sharing Slides]\]
-
--  *Wenqi Fan*, Qing Li, and Min Cheng \n
-   *Deep Modeling of Social Relations for Recommendation*  \n
-   In Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI 2018), 2018. \n
-   \[[https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16075 PDF]\]
-
+123
+
+== Publications (*Corresponding Author; # Supervised Student/RA*; [https://scholar.google.com.hk/citations?user=QD0YMCEAAAAJ&hl=zh-CN&oi=ao *Google h-index: 35; Google i-10 index: 57; Google citations: 3,378*])
+
+- Hu, M., Lin, L., Li, H., & Liu, M. (2024).\n
+First impressions on sharing accommodation market platforms: The association between cover image type and property listing price. \n
+International Journal of Hospitality Management, 123, 103919. \n
+\[[https://doi.org/10.1016/j.ijhm.2024.103919 Link]\]
+
+- Li, H., Zhou, A., Zheng, K., Li, J., Zhang, J., & Xu, J. (2024).\n
+Restaurant survival prediction using machine learning: Does the variance and source of customer-generated online reviews matter? \n
+Tourism Management, 107, 105038. \n
+\[[https://doi.org/10.1016/j.tourman.2024.105038 Link]\]
+
+- Xu, J., Zhang, W., Li, H., Zheng, X. K., & Zhang, J. (2024). \n
+User-generated photos in hotel demand forecasting. \n
+Annals of Tourism Research, 108, 103820. \n
+\[[https://doi.org/10.1016/j.annals.2024.103820 Link]\]
+
+- Fan, W., Ding, Y., Ning, L., Wang, S., Li, H., Yin, D., Chua, T., & Li, Q. (2024). \n
+A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models. \n
+KDD '24: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Proceedings. (COMP: A*; CCF A) \n
+Collaborated with Baidu Inc, Shared by “专知”, and read by over 2,600 times, [https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/ Website]
 
 
 
