@@ -372,6 +372,26 @@ table.imgtable, table.imgtable td {
     text-align: left;
 }
 
+/* 通用样式：添加左边距防止重叠 */
+.menu-item i {
+  margin-left: 18px; /* 图标与文字之间的间距 */
+}
 
+/* 设置每个图标的颜色 */
+.polyu-icon {
+  color: #990000; /* PolyU标志颜色（示例：蓝色） */
+}
+
+.scholar-icon {
+  color: #4285f4; /* Google Scholar 标志颜色（蓝色） */
+}
+
+.linkedin-icon {
+  color: #0077b5; /* LinkedIn 标志颜色 */
+}
+
+.orcid-icon {
+  color: #a6ce39; /* ORCID 标志颜色 */
+}
 
 
