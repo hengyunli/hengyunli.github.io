@@ -42,29 +42,29 @@
   .row {
     display: flex;
     flex-wrap: wrap; /* 允许换行 */
-    justify-content: space-between; /* 每行的间距均匀 */
-    width: 75%; /* 卡片总宽度占页面宽度的四分之三 */
+    justify-content: flex-start; /* 每行的间距均匀 */
+    width: 85%; /* 卡片总宽度占页面宽度的四分之三 */
     margin-right: auto; /* 靠左对齐 */
   }
 
   /* 每一列：设置每个列占 20% 的宽度，5个卡片一行 */
   .column {
-    width: calc(20% - 15px); /* 每个卡片占总宽度的 20% 减去间隙 */
+    width: 210px; /* 每个卡片占总宽度的 20% 减去间隙 */
     margin-bottom: 20px; /* 设置每行的间距 */
   }
 
   /* 卡片容器：保持固定宽高 */
   .card {
-    width: 78%; /* 卡片宽度为列的 78% */
-    height: 330px; /* 设置固定高度 */
+    width: 85%; /* 卡片宽度为列的 78% */
+    height: 315px; /* 设置固定高度 */
     display: flex;
     flex-direction: column; /* 纵向排列内容 */
     align-items: center; /* 水平居中图片和文本 */
     justify-content: flex-start; /* 使图片和文本内容分布 */
     border: 1px solid #aaa; /* 可选，给卡片添加边框 */
-    border-radius: 8px; /* 可选，给卡片圆角 */
+    border-radius: 2px; /* 可选，给卡片圆角 */
     overflow: hidden; /* 防止内容溢出 */
-    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2); /* 添加较深的阴影效果 */
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1); /* 添加较深的阴影效果 */
   }
 
   /* 图片：保持固定的宽高比例并减少图片高度 */
@@ -91,13 +91,14 @@
   /* 标题和描述文本 */
   .container h4 {
     margin: 0px 0; /* 缩小标题与文本容器的间距 */
-    font-size: 1.00em;
+    font-size: 0.95em;
   }
 
   .container .degree {
-    font-size: 0.8em;
+    font-size: 0.78em;
     color: #555;
-     margin-bottom: 11; /* 确保容器顶部没有额外的间距 */
+     margin-bottom: 1; /* 确保容器顶部没有额外的间距 */
+     line-height: 1; /* 缩小行距 */
   }
 
     .container h4::after {
@@ -106,7 +107,7 @@
     width: 90%;
     height: 1px;
     background-color: #ddd;
-    margin: 2px auto; /* 控制分隔线上下间距 */
+    margin: 3px 3px; /* 控制分隔线上下间距 */
   }
 </style>
 
@@ -117,7 +118,7 @@
     <div class="column">
         <div class="card">
           <a href="https://dsai.dufe.edu.cn/content_71197.html">
-          <img src="images/Jie.png" alt="Portrait of Jie Mu" style="width:100%">
+          <img src="images/Jie.png" alt="Portrait of Jie Mu" style="width:100% ">
           <div class="container">
           <h4>Dr. Jie MU</h4>
             <p class="degree">Postdoc, Summer'2024- <br> From: DLUT <br> Now: Lecturer, DUFE </p>
@@ -174,7 +175,7 @@
         <a href="https://www.linkedin.com/in/judymamam/">
         <img src="images/Judy.jpg" alt="Portrait of Judy Ma" style="width:100%">
         <div class="container">
-        <h4>Judy MA</h4>
+        <h4>Jizhen (Judy) MA</h4>
           <p class="degree">PhD, Fall’2023- <br> From: OUC & UofSC</p>
         </div>
       </a>
@@ -312,7 +313,7 @@ MPhil in Computer Science (Fall’2024), Co-supervisor <br /></p>
 </dt>
 
 <ul>
-<li><p><a href="https://www.linkedin.com/in/minyu-zhang-a1036014a/">Minyu Zhang</a> <br />
+<li><p><a href="https://www.linkedin.com/in/minyu-zhang-a1036014a/">Minyu ZHANG</a> <br />
 RA (01.2024-10.2024), Chief supervisor <br /></p>
 <ul>
 <li><p>From University of Waterloo</p>
@@ -322,7 +323,7 @@ RA (01.2024-10.2024), Chief supervisor <br /></p>
 </li>
 </ul>
 <ul>
-<li><p><a href=".">Lingyan Zhang</a> <br />
+<li><p><a href=".">Lingyan ZHANG</a> <br />
 RA (2021-2022), Chief supervisor <br /></p>
 <ul>
 <li><p>From School of Business, National University of Singapore (NUS), <br /></p>
