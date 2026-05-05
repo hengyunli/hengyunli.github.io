@@ -140,7 +140,8 @@ def standardconf():
   
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-  
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+      
   [windowtitle]
   # used in header for window title.
   <title>|</title>
@@ -187,10 +188,10 @@ def standardconf():
   <td id="layout-content">
   
   [menucategory]
-  <div class="menu-category">|</div>
+    <div class="menu-category">|</div>
 
   [menuitem]
-  <div class="menu-item"><a href="|1">|2</a></div>
+    <div class="menu-item"><a href="|1">|2</a></div>
 
   [specificcss]
   <link rel="stylesheet" href="|" type="text/css" />
@@ -199,7 +200,7 @@ def standardconf():
   <script src="|.js" type="text/javascript"></script>
   
   [currentmenuitem]
-  <div class="menu-item"><a href="|1" class="current">|2</a></div>
+    <div class="menu-item"><a href="|1" class="current">|2</a></div>
   
   [nomenu]
   <div id="layout-content">
@@ -350,7 +351,20 @@ def insertmenuitems(f, mname, current, prefix):
             in_quote = True
             next
           else:
-            menuitem += br(re.sub(r'(?<!\\n) +', '~', group), f)
+            menuitem += br(group, f)
+
+      # Escape all links, including absolute links, so that & becomes &amp;.
+      link = allreplace(link)
+
+      # Add Font Awesome icons for external profile links.
+      if 'polyu.edu.hk/shtm/people/academic-staff/neil-li' in link:
+        menuitem += ' <i class="fas fa-university polyu-icon"></i>'
+      elif 'scholar.google.com.hk/citations' in link:
+        menuitem += ' <i class="fas fa-graduation-cap scholar-icon"></i>'
+      elif 'linkedin.com/in/neil-hengyun-li' in link:
+        menuitem += ' <i class="fab fa-linkedin linkedin-icon"></i>'
+      elif 'orcid.org/0000-0002-2369-1567' in link:
+        menuitem += ' <i class="fab fa-orcid orcid-icon"></i>'
 
       if link[-len(current):] == current:
         hb(f.outf, f.conf['currentmenuitem'], link, menuitem)
@@ -1174,6 +1188,14 @@ def inserttitle(f, t):
 
     hb(f.outf, f.conf['doctitleend'], t)
 
+def is_index_page(f):
+  if not f.inname:
+    return False
+
+  base = os.path.basename(f.inname)
+
+  return base == 'index' or base == 'index.jemdoc'
+
 def procfile(f):
   f.linenum = 0
 
@@ -1471,6 +1493,13 @@ def procfile(f):
           hb(f.outf, '|\n', s)
         else:
           hb(f.outf, '<p>|</p>\n', s)
+
+  if is_index_page(f):
+    out(f.outf, '''  <h2>Visitors</h2>
+  <div id="clustrmaps-container" style="width: 750px; height: 500px; margin: 0 auto;">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=z0LVAVBx9zZuuz4Twl24jlCQS56_80ujUH5Go9FB8eg&amp;cl=ffffff&amp;w=a"></script>
+  </div>
+  ''')
 
   if showfooter and (showlastupdated or showsourcelink):
     out(f.outf, f.conf['footerstart'])
