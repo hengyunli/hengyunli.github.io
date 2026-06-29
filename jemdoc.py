@@ -1497,7 +1497,7 @@ def procfile(f):
   if is_index_page(f):
     out(f.outf, '''  <h2>Visitors</h2>
   <div id="clustrmaps-container" style="width: 750px; height: 500px; margin: 0 auto;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=z0LVAVBx9zZuuz4Twl24jlCQS56_80ujUH5Go9FB8eg&amp;cl=ffffff&amp;w=a"></script>
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=sIBdbe1sX3IEOO1GqHlSqcFCjKm43vYwYC5pCuxEQEQ&cl=ffffff&w=a"></script>
   </div>
   ''')
 
